@@ -1,4 +1,4 @@
-Setup NPM
+# Setup NPM
 
 ```console
 npm install
