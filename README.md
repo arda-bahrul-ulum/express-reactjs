@@ -1,4 +1,4 @@
-# Setup NPM
+###### Setup NPM
 
 ```console
 npm install
@@ -12,7 +12,7 @@ Import backup dump database
 
 ```
 
-# Setup backend
+# Setup back-end
 
 ```console
  npm install express
@@ -27,7 +27,7 @@ Import backup dump database
  npm install bcryptjs
 ```
 
-# Setup frontend
+# Setup front-end
 
 ```console
 npm create vite
@@ -43,13 +43,13 @@ node e "console.log(require('crypto').randomBytes(32).toString('hex'))"
 copy generate result on JWT_SECRET=
 ```
 
-# Run backend express
+# Run back-end express
 
 ```console
 nodemon index.js
 ```
 
-# Run frontend react
+# Run front-end react
 
 ```console
 npm run dev
