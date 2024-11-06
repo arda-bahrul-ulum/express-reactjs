@@ -8,7 +8,7 @@ npm install
 ### Setup database
 
 ```console
-Import backup dump database
+Import backup dump database mysql to your database
 
 ```
 
