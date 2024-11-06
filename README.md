@@ -1,7 +1,7 @@
 # Setup NPM
 
-```console
-- npm install
+```console npm install
+
 ```
 
 # Setup database
