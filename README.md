@@ -26,8 +26,8 @@
 - node -e "console.log(require('crypto').randomBytes(32).toString('hex'))"
 - copy generate result on JWT_SECRET=
 
-# run back-end express
+# Run back-end express
 - nodemon index.js
 
-# run front-end react
+# Run front-end react
 - npm run dev
