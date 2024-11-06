@@ -1,18 +1,18 @@
-###### Setup NPM
+### Setup NPM
 
 ```console
 npm install
 
 ```
 
-# Setup database
+### Setup database
 
 ```console
 Import backup dump database
 
 ```
 
-# Setup back-end
+### Setup back-end
 
 ```console
  npm install express
@@ -27,7 +27,7 @@ Import backup dump database
  npm install bcryptjs
 ```
 
-# Setup front-end
+### Setup front-end
 
 ```console
 npm create vite
@@ -36,20 +36,20 @@ npm install jscookie
 npm install reactrouterdom
 ```
 
-# Setup .ENV
+### Setup .ENV
 
 ```console
 node e "console.log(require('crypto').randomBytes(32).toString('hex'))"
 copy generate result on JWT_SECRET=
 ```
 
-# Run back-end express
+### Run back-end express
 
 ```console
 nodemon index.js
 ```
 
-# Run front-end react
+### Run front-end react
 
 ```console
 npm run dev
