@@ -1,7 +1,7 @@
 # Setup NPM
 - npm install
   
-# setup database
+# Setup database
 - Import backup dump database
   
 # Setup back-end
