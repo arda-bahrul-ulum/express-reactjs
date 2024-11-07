@@ -1,18 +1,15 @@
-### Setup NPM
+### setup NPM
 
 ```console
 npm install
 
 ```
 
-### Setup database
+### setup database
 
-```console
-Import backup dump mysql database to your database
+**Import backup dump mysql database to your database**
 
-```
-
-### Setup back-end
+### setup back-end
 
 ```console
  npm install express
@@ -27,7 +24,7 @@ Import backup dump mysql database to your database
  npm install bcryptjs
 ```
 
-### Setup front-end
+### setup front-end
 
 ```console
 npm create vite
@@ -36,20 +33,20 @@ npm install js-cookie
 npm install react-router-dom
 ```
 
-### Setup .ENV
+### setup .ENV
 
 ```console
 node -e "console.log(require('crypto').randomBytes(32).toString('hex'))"
 copy generate result on JWT_SECRET=
 ```
 
-### Run back-end express
+### run back-end express
 
 ```console
 nodemon index.js
 ```
 
-### Run front-end react
+### run front-end react
 
 ```console
 npm run dev
