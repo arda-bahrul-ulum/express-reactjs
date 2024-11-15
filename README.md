@@ -1,4 +1,4 @@
-### setup NPM
+### setup npm
 
 ```console
 npm install
@@ -8,6 +8,10 @@ npm install
 ### setup database
 
 **Import backup dump mysql database to your database**
+
+### setup postman
+
+**Import postman api collection to your postman app**
 
 ### setup back-end
 
@@ -33,7 +37,7 @@ npm install js-cookie
 npm install react-router-dom
 ```
 
-### setup .ENV
+### setup .env
 
 ```console
 node -e "console.log(require('crypto').randomBytes(32).toString('hex'))"
