@@ -1,10 +1,3 @@
-### setup npm
-
-```console
-npm install
-
-```
-
 ### setup database
 
 **Import backup dump mysql database to your database**
@@ -16,6 +9,7 @@ npm install
 ### setup back-end
 
 ```console
+ npm install
  npm install express
  npm install -g nodemon
  npm install cors
@@ -31,7 +25,8 @@ npm install
 ### setup front-end
 
 ```console
-npm create vite
+npm create vite frontend-react
+npm install
 npm install axios
 npm install js-cookie
 npm install react-router-dom
