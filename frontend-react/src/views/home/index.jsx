@@ -7,7 +7,7 @@ export default function Home() {
       <div className="container-fluid py-5">
         <h1 className="display-5 fw-bold">FULLTSACK JAVASCRIPT DEVELOPER</h1>
         <p className="col-md-12 fs-4">
-          Implementasi Full Stack JavaScript Developer dengan Express dan React
+          Implementasi tech stack Express.js dan React.js
         </p>
         <hr />
         <Link to="/register" className="btn btn-primary btn-lg me-3">
